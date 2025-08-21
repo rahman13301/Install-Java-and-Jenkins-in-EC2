@@ -18,7 +18,8 @@ Docker (navigate to Get Docker site to access the Docker download that’s suita
 - Change to root user using command (sudo su -) optional
 - Enter below commands to import official jenkins setup and install jenkins.
   
-  **sudo wget -O /etc/yum.repos.d/jenkins.repo \ https://pkg.jenkins.io/redhat-stable/jenkins.repo**
+  **sudo wget -O /etc/yum.repos.d/jenkins.repo \
+https://pkg.jenkins.io/redhat-stable/jenkins.repo**
 
   **sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key**
 
