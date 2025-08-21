@@ -27,7 +27,7 @@ https://pkg.jenkins.io/redhat-stable/jenkins.repo**
 
   OR    
 
-  **sudo yum install Jenkins -y**
+  **sudo yum install jenkins -y**
 
 - Install Java version 17 or 21 with below commands:
 
